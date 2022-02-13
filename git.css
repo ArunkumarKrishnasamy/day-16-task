@@ -1,0 +1,33 @@
+.header{
+    background-color: #2F3D46;
+    height: 75px;
+    }
+    .cent{
+        background-color: #CAD2C5;
+        height: 550px;
+        border-radius: 5px;
+    }
+    .can1{
+    background-color: #353535;
+    width: 250px;
+    height: 375px;
+    border-radius:10px;
+    }
+    .can2{
+        background-color: #353535;
+        width: 500px;
+        height: 40px;
+        border-radius:5px;
+    }
+    .can3{
+        background-color: #353535;
+        width: 100px;
+        height: 80px;
+        border-radius:5px;
+    }
+    .end{
+        background-color: #353535;
+        width: 500px;
+        height: 125px;
+        border-radius:10px;
+    }
